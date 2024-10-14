@@ -1,10 +1,10 @@
 # RA-Assigment1
 
-This is the project corresponding to the first Assigment of Randomized Algorithm form the MIRI master at UPC.
+This project corresponds to the first assignment of the Randomized Algorithms course from the MIRI master's program at UPC.
 
-The usage is the following
-- First compile the program using 'make all'.
-- Then, execute ./galtonBoard n_bins n_balls
-- Retrieve the output of the simulation in the folder Simulations with the name 'simulation_{n_bins}_{n_balls}.csv'
+The usage instructions are as follows:
+- First, compile the program using the command 'make all'.
+- Then, execute the program with ./galtonBoard n_bins n_balls
+- The output of the simulation will be saved in the folder 'Simulations' with the filename 'simulation_{n_bins}_{n_balls}.csv'
 
 Execute the programm with no arguments to see the Usage function.
