@@ -1,4 +1,4 @@
-# RA-Assigment1
+# RA-Assignment1
 
 This project corresponds to the first assignment of the Randomized Algorithms course from the MIRI master's program at UPC.
 
